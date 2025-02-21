@@ -1,3 +1,4 @@
+![logo](https://github.com/Mansi-298/Mansi-298/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mansi Wagh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
