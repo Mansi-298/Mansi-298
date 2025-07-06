@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mansi Wagh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="350" src="https://github.com/Mansi-298/Mansi-298/blob/main/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif"/>
+<img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/9dba4a98-8904-4ac3-86e1-2fd445af89ca"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi-298&label=Profile%20views&color=0e75b6&style=flat" alt="mansi-298" /> </p>
 
