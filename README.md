@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi-298&label=Profile%20views&color=0e75b6&style=flat" alt="mansi-298" /> </p>
 
-- 👨‍💻 All of my projects are available at  [https://mansi-298.github.io/Mansi-Wagh-Portfolio/](https://mansi-298.github.io/Mansi-Wagh-Portfolio/)
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TLHd8g1BAMrqmSN3WLeSdvOGyndCqi0W/view?usp=sharing](https://drive.google.com/file/d/1TLHd8g1BAMrqmSN3WLeSdvOGyndCqi0W/view?usp=sharing)
+- 👨‍💻 My [Portfolio](https://mansi-298.github.io/Mansi-Wagh-Portfolio/)
 
 - ⚡ Fun fact **I can spend hours debugging code but still forget where I kept my phone five minutes ago! 😆**
 
